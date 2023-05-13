@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ReactDOM from 'react-dom';
 
 function generateRandomNumber(): number {
     return Math.floor(Math.random() * 100) + 1;
